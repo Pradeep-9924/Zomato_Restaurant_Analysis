@@ -25,4 +25,4 @@ This project analyses Zomato restaurant data to derive actionable insights for s
 - Requirement Analysis
 - Agile Frameworks
 - Stakeholder Communication
-- Data Visualization
+- Data Visualisation
